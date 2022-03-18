@@ -1,0 +1,8 @@
+# macOS Big Sur
+python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
+
+# macOS Monterey
+python ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
+
+# Diretório a ser criado
+com.apple.recovery.boot
