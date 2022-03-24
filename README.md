@@ -24,7 +24,7 @@
 |Display|15,6" 60Hz|
 |Webcam|USB Buil-in|
 |Card Reader|USB Built-in|
-|TouchPad & Keyboard|PS/2|
+|TouchPad & Keyboard|PS/2 - SYNAPTICS (ELAN001 will not work)|
 
 ### Working features
 - Intel UHD Graphics 630 (3072 Mb)
