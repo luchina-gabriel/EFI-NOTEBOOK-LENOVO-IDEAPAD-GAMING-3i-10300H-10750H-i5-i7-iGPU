@@ -48,6 +48,7 @@ Open `config.plist` with ProperTree and:
 7. Enable ACPI: SSDT-I2C.aml
 
 Kexts: config.plist > Kernel > Add
+<br>
 ACPI: config.plist > ACPI > Add
 
 ## Discord - Universo Hackintosh
