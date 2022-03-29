@@ -39,17 +39,13 @@
 
 Open `config.plist` with ProperTree and:
 
-1. Disable KEXT: VoodooI2C.kext
-2. Disable KEXT: VoodooI2CHID.kext
-3. Enable KEXT: VoodooI2C-ELAN0001.kext
-4. Enable KEXT: VoodooI2CHID-ELAN0001.kext
-5. Disable ACPI: SSDT-GPI0.aml
-6. Disable ACPI: SSDT-TPD0.aml
-7. Enable ACPI: SSDT-I2C.aml
-
-Kexts: config.plist > Kernel > Add
-<br>
-ACPI: config.plist > ACPI > Add
+1. Disable KEXT: VoodooI2C.kext [Kernel > Add > Key 13 (VoodooI2C.kext)]
+2. Disable KEXT: VoodooI2CHID.kext [Kernel > Add > Key 15 (VoodooI2CHID.kext)]
+3. Enable KEXT: VoodooI2C-ELAN0001.kext [Kernel > Add > Key 14 (VoodooI2C-ELAN0001.kext)]
+4. Enable KEXT: VoodooI2CHID-ELAN0001.kext [Kernel > Add > Key 16 (VoodooI2CHID-ELAN0001.kext)]
+5. Disable ACPI: SSDT-GPI0.aml [ACPI > Add > Key 2 (SSDT-GPI0.aml)]
+6. Disable ACPI: SSDT-TPD0.aml [ACPI > Add > Key 9 (SSDT-TPD0.aml)]
+7. Enable ACPI: SSDT-I2C.aml [ACPI > Add > Key 10 (SSDT-I2C.aml)]
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
