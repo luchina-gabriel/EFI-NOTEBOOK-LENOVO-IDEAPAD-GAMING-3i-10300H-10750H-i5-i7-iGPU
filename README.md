@@ -37,15 +37,7 @@
 
 ### For ELAN0001 Trackpads
 
-Open `config.plist` with ProperTree and:
-
-1. Disable KEXT: VoodooI2C.kext - _[Kernel > Add > Key 13 (VoodooI2C.kext)]_
-2. Disable KEXT: VoodooI2CHID.kext - _[Kernel > Add > Key 15 (VoodooI2CHID.kext)]_
-3. Enable KEXT: VoodooI2C-ELAN0001.kext - _[Kernel > Add > Key 14 (VoodooI2C-ELAN0001.kext)]_
-4. Enable KEXT: VoodooI2CHID-ELAN0001.kext - _[Kernel > Add > Key 16 (VoodooI2CHID-ELAN0001.kext)]_
-5. Disable ACPI: SSDT-GPI0.aml - _[ACPI > Add > Key 2 (SSDT-GPI0.aml)]_
-6. Disable ACPI: SSDT-TPD0.aml - _[ACPI > Add > Key 9 (SSDT-TPD0.aml)]_
-7. Enable ACPI: SSDT-I2C.aml - _[ACPI > Add > Key 10 (SSDT-I2C.aml)]_
+- Please use EFI-ELAN001 folder
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
