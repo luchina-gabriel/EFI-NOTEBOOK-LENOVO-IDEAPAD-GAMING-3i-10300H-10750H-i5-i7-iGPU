@@ -37,7 +37,7 @@
 
 ### For ELAN0001 Trackpads
 
-- Please use EFI-ELAN001 folder
+- Please use `EFI-ELAN001` folder
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
