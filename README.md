@@ -8,6 +8,7 @@
 **Current OpenCore**: 0.9.7
 <br>
 **Release date**: 18/03/2022
+<br>
 **Update date**: 17/2/2024
 
 # Notebook specifications
