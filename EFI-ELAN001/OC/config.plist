@@ -2,12 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># EFI for Lenovo IdeadPad Gaming 3i - i5 10300H &amp; i7 10750H</key>
-	<string></string>
-	<key># DISCORD: https://discord.universohackintosh.com</key>
-	<string></string>
-	<key># BY: https://luchina.com.br</key>
-	<string></string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
