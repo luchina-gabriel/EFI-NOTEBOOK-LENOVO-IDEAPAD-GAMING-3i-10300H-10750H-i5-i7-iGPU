@@ -5,11 +5,11 @@
 # EFI Details
 **Latest working macOS**: 14.3.1
 <br>
-**Current OpenCore**: 0.9.7
+**Current OpenCore**: 0.9.8
 <br>
 **Release date**: 18/03/2022
 <br>
-**Update date**: 17/2/2024
+**Update date**: 29/02/2024
 
 # Notebook specifications
 |Item|Description|
